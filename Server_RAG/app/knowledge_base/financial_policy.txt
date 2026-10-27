@@ -1,0 +1,315 @@
+ACME Corporation Enterprise Policy Manual (2026 Edition)
+
+Document Version: 4.1
+Department: Enterprise Governance
+Effective Date: January 1, 2026
+
+===========================================================
+Section 1: Employee Leave and Attendance Policy
+===========================================================
+
+Employees are entitled to annual paid leave based on their years of service.
+
+Employees with less than three years of service receive 18 paid leave days annually.
+
+Employees with three to seven years of service receive 24 paid leave days annually.
+
+Employees with more than seven years of service receive 30 paid leave days annually.
+
+Sick leave is limited to 12 working days each calendar year.
+
+Emergency leave requires approval from the reporting manager.
+
+Any employee remaining absent without approval for more than three consecutive working days will automatically trigger an HR investigation.
+
+Related Topics:
+Attendance
+Working Hours
+Leave Balance
+Absence Policy
+
+-----------------------------------------------------------
+
+Section 2: Working Hours and Remote Work Policy
+===========================================================
+
+The standard office working schedule is:
+
+Monday to Friday
+
+9:00 AM to 6:00 PM
+
+One-hour lunch break
+
+Employees are allowed to work remotely up to three days every week after manager approval.
+
+Remote work requests exceeding three consecutive weeks require approval from the HR Director.
+
+Employees working remotely must remain available through Microsoft Teams during office hours.
+
+Repeated failure to respond during working hours may result in remote work privileges being revoked.
+
+Keywords:
+Remote Work
+Hybrid Work
+WFH
+Work From Home
+Flexible Working
+
+-----------------------------------------------------------
+
+Section 3: Travel and Expense Reimbursement
+===========================================================
+
+Business travel must always receive prior approval.
+
+Domestic Flights:
+Maximum ₹25,000
+
+International Flights:
+Maximum ₹1,50,000
+
+Hotel:
+₹8,000 per night
+
+Meals:
+₹2,000 per day
+
+Taxi:
+₹3,000 per trip
+
+Travel requests above these limits require Finance Director approval.
+
+Expense claims submitted after thirty calendar days will automatically be rejected.
+
+Employees should upload original invoices.
+
+Synonyms:
+Travel Policy
+Business Trip
+Official Travel
+Travel Reimbursement
+
+-----------------------------------------------------------
+
+Section 4: Vendor Payment Policy
+===========================================================
+
+Invoices less than ₹50,000 require Department Manager approval.
+
+Invoices between ₹50,000 and ₹2,00,000 require Finance Manager approval.
+
+Invoices exceeding ₹2,00,000 require CFO approval.
+
+Wire transfers above ₹5,00,000 require dual authorization.
+
+Purchase Orders must be created before invoice submission.
+
+Vendor bank accounts may only be modified after finance verification.
+
+Related Topics:
+Invoices
+Purchase Orders
+Payments
+Vendor Management
+
+-----------------------------------------------------------
+
+Section 5: Information Security Policy
+===========================================================
+
+Passwords must contain:
+
+Minimum 12 characters
+
+One uppercase letter
+
+One lowercase letter
+
+One number
+
+One special character
+
+Passwords expire every 90 days.
+
+Multi-factor Authentication (MFA) is mandatory for all employees.
+
+USB storage devices are prohibited unless specifically approved.
+
+Employees must report phishing emails within one hour.
+
+Keywords:
+Cybersecurity
+Security
+Password
+Authentication
+MFA
+
+-----------------------------------------------------------
+
+Section 6: Data Privacy Policy
+===========================================================
+
+Customer personal information shall never be shared externally.
+
+Personally Identifiable Information (PII) includes:
+
+Name
+
+Phone Number
+
+Email Address
+
+Government ID
+
+Passport Number
+
+Credit Card Information
+
+Sensitive customer records must remain encrypted both during storage and transmission.
+
+Only authorized personnel may access confidential customer information.
+
+Related Topics:
+GDPR
+Privacy
+PII
+Customer Data
+
+-----------------------------------------------------------
+
+Section 7: IT Asset Management
+===========================================================
+
+Every laptop shall receive an asset identification number.
+
+Employees are responsible for company-issued devices.
+
+Lost devices must be reported within two hours.
+
+Damaged devices should be reported immediately.
+
+Software installations require approval from the IT Department.
+
+Operating system updates must never be postponed for more than fourteen days.
+
+-----------------------------------------------------------
+
+Section 8: Procurement Policy
+===========================================================
+
+Office equipment purchases below ₹25,000 may be approved by Team Leads.
+
+Purchases between ₹25,000 and ₹1,00,000 require Procurement Manager approval.
+
+Purchases exceeding ₹1,00,000 require Procurement Director approval.
+
+Preferred vendors should always be selected whenever possible.
+
+Competitive quotations are mandatory for purchases above ₹50,000.
+
+Related Topics:
+Purchasing
+Procurement
+Suppliers
+Vendor Selection
+
+-----------------------------------------------------------
+
+Section 9: Incident Response Policy
+===========================================================
+
+Critical production incidents must be acknowledged within fifteen minutes.
+
+High priority incidents must be acknowledged within thirty minutes.
+
+Root Cause Analysis (RCA) documents must be completed within five business days.
+
+Incident Severity Levels:
+
+P1 Critical
+
+P2 High
+
+P3 Medium
+
+P4 Low
+
+Keywords:
+Outage
+Production Incident
+System Failure
+Downtime
+RCA
+
+-----------------------------------------------------------
+
+Section 10: Financial Compliance
+===========================================================
+
+The maximum debt-to-equity ratio is 1.5.
+
+Capital expenditure exceeding ₹50,00,000 requires Board approval.
+
+Quarterly financial reports must be submitted within ten business days after quarter end.
+
+Financial audits occur twice every year.
+
+Internal audits may occur without notice.
+
+Related Topics:
+Finance
+Audit
+Compliance
+Capital Expenditure
+
+-----------------------------------------------------------
+
+Section 11: Artificial Intelligence Usage Policy
+===========================================================
+
+Employees may use approved AI tools for productivity.
+
+Confidential company information shall never be uploaded into public AI systems.
+
+All AI-generated content must undergo human review before publication.
+
+Model outputs must never be treated as authoritative without verification.
+
+Keywords:
+Generative AI
+LLM
+Artificial Intelligence
+Machine Learning
+Prompt Engineering
+
+-----------------------------------------------------------
+
+Section 12: Customer Support Standards
+===========================================================
+
+Critical customer tickets:
+
+Response within 30 minutes
+
+Resolution target within 4 hours
+
+High priority tickets:
+
+Response within 2 hours
+
+Resolution within 8 hours
+
+Normal tickets:
+
+Response within 8 hours
+
+Resolution within 48 hours
+
+Customer satisfaction surveys are automatically sent after ticket closure.
+
+Related Topics:
+Support
+Help Desk
+Customer Service
+SLA
