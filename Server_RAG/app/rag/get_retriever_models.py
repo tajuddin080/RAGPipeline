@@ -1,12 +1,18 @@
+import re
+
 from app.utillities.utils import get_embedding_model, model_gemini
 from langchain_chroma import Chroma
 from langchain_classic.retrievers import MultiQueryRetriever, EnsembleRetriever
 from langchain_community.retrievers import BM25Retriever
-from app.rag.data_ingest import get_chunks
+from app.rag.data_ingest import COLLECTION_NAME, get_chunks
 
 from langchain_classic.retrievers.document_compressors import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 from langchain_classic.retrievers import ContextualCompressionRetriever
+
+
+def _tokenize_for_bm25(text: str) -> list[str]:
+    return re.findall(r"\w+", text.casefold())
 
 
 def dense_retriever(embedding_model):
@@ -17,7 +23,7 @@ def dense_retriever(embedding_model):
     vector_db = Chroma(
         persist_directory="./app/chroma_database",
         embedding_function=embedding_model,
-        collection_name="Financial_Policy"
+        collection_name=COLLECTION_NAME
     )
 
     dense_retriever = vector_db.as_retriever(
@@ -37,7 +43,8 @@ def get_sparse_retriever():
 
     sparse_retriever = BM25Retriever.from_documents(
         documents=docs,
-        k=5
+        k=5,
+        preprocess_func=_tokenize_for_bm25,
     )
 
     return sparse_retriever

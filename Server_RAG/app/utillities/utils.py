@@ -22,7 +22,7 @@ def get_gemini_model():
     gemini_model = ChatGoogleGenerativeAI(model="models/gemini-3.5-flash-lite",
                               api_key=os.getenv("API_KEY"))
     return gemini_model
-model_gemini = get_model()
+model_gemini = get_gemini_model()
 """"
 def local_judge_model():
     ApiKey = os.getenv("GEMINI_API_KEY")
